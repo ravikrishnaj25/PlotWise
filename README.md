@@ -5,7 +5,7 @@
 [![Lida](https://img.shields.io/badge/Lida-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/microsoft/lida)
 
 
-# PlotWise: A chatbot assistant to analyze and visualize your data effortlessly 📈📊
+# PlotWise: A chatbot assistant to analyze and visualize your data effortlessly 
 
 Imagine a world where data analysis and visualization come alive seamlessly ..
 
